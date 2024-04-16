@@ -13,7 +13,7 @@ __Демо__: [Coron](https://tubik15.itch.io/coron)
 # Break Bricks
 
 __Демо__: [Break Bricks](https://tubik15.itch.io/break-bricks)
-__Код__: [](https://github.com/kelmurzin/Break-Bricks)
+[Код](https://github.com/kelmurzin/Break-Bricks)
 
 [![brick.png](https://i.postimg.cc/141x3zvG/brick.png)](https://postimg.cc/GTKgMbwt)
 
